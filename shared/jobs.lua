@@ -40,7 +40,8 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
-                payment = 150
+                payment = 150,
+                bankAuth = true
             },
         },
 	},
@@ -69,7 +70,8 @@ QBShared.Jobs = {
 			['4'] = {
                 name = 'Chief',
 				isboss = true,
-                payment = 150
+                payment = 150,
+                bankAuth = true
             },
         },
 	},
